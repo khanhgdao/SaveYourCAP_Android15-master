@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <solid android:color="#ffffff"/>
+    <corners android:radius="8dip" />
+    
+</shape><!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/src/main/res/drawable/swarm_message_speech_bubble_background.xml --><!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/build/intermediates/bundles/debug/res/drawable/swarm_message_speech_bubble_background.xml -->

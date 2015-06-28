@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:state_pressed="true"
+          android:drawable="@color/blue_highlight"/>
+    
+    <item android:state_pressed="false"
+          android:drawable="@drawable/swarm_row_background"/>
+</selector><!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/src/main/res/drawable/swarm_selectable_row_background.xml -->

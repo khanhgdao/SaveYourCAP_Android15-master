@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:padding="10dp" >
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+</LinearLayout><!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/src/main/res/layout/swarm_crop_selector.xml --><!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/build/intermediates/bundles/debug/res/layout/swarm_crop_selector.xml -->

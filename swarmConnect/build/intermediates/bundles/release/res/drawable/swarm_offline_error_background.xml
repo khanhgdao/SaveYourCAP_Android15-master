@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    
+    <gradient
+        android:angle="270"
+        android:endColor="#bd9a10"
+        android:startColor="#f2e012" />
+
+</shape><!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/src/main/res/drawable/swarm_offline_error_background.xml -->

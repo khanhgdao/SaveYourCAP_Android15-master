@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/build/intermediates/bundles/debug/res/values-v11/values-v11.xml -->
+    <eat-comment/>
+    <style name="ActivityDialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@drawable/swarm_panel_background</item>
+    </style>
+    <style name="HoloTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        
+    </style>
+</resources>

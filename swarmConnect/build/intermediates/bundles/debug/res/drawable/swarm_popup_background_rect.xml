@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#ffffff"/>
+	<corners android:radius="3dp" />
+</shape><!-- From: file:/Users/DaoGiaKhanh/Desktop/SaveYourCAP_Android15-master/swarmConnect/src/main/res/drawable/swarm_popup_background_rect.xml -->
